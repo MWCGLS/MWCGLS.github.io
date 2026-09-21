@@ -1,6 +1,6 @@
 # Conservation Genetics & Landscape Sustainability
 
-This is the GitHub repository used to manage materials for the course *Conservation genetics and Landscape sustainability*. You likely meant to navigate towards the rendered html via the website [here](https://MWGCLS.github.io/Conservation-Genetics-Landscape-Sustainability).
+This is the GitHub repository used to manage materials for the course *Conservation genetics and Landscape sustainability*. You likely meant to navigate towards the rendered html via the website [here](https://MWCGLS.github.io).
 
 The website can be rendered locally with `jekyll` after cloning the repo. For example:
 ```
