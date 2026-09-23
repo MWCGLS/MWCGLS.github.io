@@ -43,4 +43,4 @@ A final list of instructors and their contact information will be populated prio
 
 ## Sponsors
 
-This workshop is made possible by funding from X.
+This workshop is made possible by funding from the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/).
