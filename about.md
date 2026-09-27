@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
+<figure>
+  <img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
+  <figcaption>A Coquerel Sifaka (Propithecus coquereli) in Amborovy, Madagascar(the course location), in 2010. Credits Jordi Salmona </figcaption>
+</figure>
 
 The first *Madagascar Workshop on Conservation Genetics and Landscape Sustainability* in Madagascar represents internationally collaborative efforts to elevate the impact of conservation genetics research in Madagascar. The workshop is intended to provide an intensive 10-day hands-on training with experts at the intersection of technical skill sets and the passion for Madagascar's Natural History and biodiversity. Approximately 30 individuals will gather in Mahajanga to advance their research projects, develop connections, and learn from each other.
 
