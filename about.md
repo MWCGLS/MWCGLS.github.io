@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#**1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
+# **1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
 <figure>
   <img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
   <figcaption>A Coquerel Sifaka (<i>Propithecus coquereli</i>) in Amborovy (the workshop location), Madagascar, in 2010. Credits Jordi Salmona </figcaption>
@@ -33,15 +33,17 @@ Cover classical conservation genomics pillars (genetic diversity, population str
 5. **Foster Diversity, Collaboration, and Multidisciplinary Exchange**
 Bring together Master's/PhD students and professionals from academic and conservation sectors in mixed groups, encouraging peer-to-peer cultural, technical, and scientific collaboration through lectures, workshops, and short projects.
 5. **Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
-Through daily seminars and regular roundtables we intend to develop a collective, nuanced appreciation of Madagascar's Natural History and identify key areas where conservation genetics research could be important.
+Through daily seminars and regular roundtables, we intend to develop a collective, nuanced appreciation of Madagascar's Natural History and identify key areas where conservation genetics research could be important.
 
 ## Workshop Outcomes
 
-At the end of the workshop, participants should be able to:
+By the end of the workshop, participants will gain knowledge and strengthen their capacity to:
+*Critically evaluate literature: Read, interpret, and assess scientific papers in conservation genetics and landscape genomics for evidence-based management.
+*Execute high-impact analyses: Perform complete, reproducible data workflows (using BASH, R, and HPC clusters) suitable for international publication.
+*Design independent research: Conceptualize and conduct rigorous conservation genetics projects that bridge field sampling with genomic insights.
+*Overcome infrastructure limits: Utilize high-performance computing to maintain analytical independence despite local connectivity constraints.
+*Collaborate regionally: Work within multidisciplinary teams to strengthen a self-sustaining community of conservation geneticists in Madagascar.
 
-* Critically read and interpret scientific literature in conservation genetics and landscape genomics
-* Perform standard analyses used for high-impact publication of conservation genetics research
-* Independently design and conduct conservation genetics research to advance fundamental and applied science
 
 ## Instructors
 
