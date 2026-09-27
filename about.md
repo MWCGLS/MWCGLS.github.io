@@ -96,5 +96,5 @@ Collaborate regionally: Work within multidisciplinary teams to strengthen a self
 
 ## Sponsors
 
-This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding from the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), and the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne).   
+This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding granted by the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne), and the [Genotoul Bioinformatic platform](bioinfo.genotoul.fr/).   
 
