@@ -38,9 +38,9 @@ At the end of the workshop, participants should be able to:
 
 [Tanjona Ramiadantsoa](https://ramiadantsoa.github.io/). Tanjona is a Malagasy ecologist who develops mathematical and statistical models to better understand patterns and processes of biodiversity loss. Tanjona 
 
-[George Tiley](https://cals.ncsu.edu/plant-and-microbial-biology/people/gptiley/), Associate Professor at the .....
+[George Tiley](https://cals.ncsu.edu/plant-and-microbial-biology/people/gptiley/), Associate Professor at North-Carolina State University. George is broadly interested in the evolutionary consequences of polyploidy, from local adaptation among populations of the same species with variable ploidy to how new species arise through hybridization with genome duplication or allopolyploidy. The organismal focus of his lab is on grasses and grassy ecosystems in Madagascar and the Southeastern United States, but there are also projects in the lab that address large-scale questions of plant molecular evolution across angiosperms. Computational and statistical development is focused on coalescent models in population genomics and phylogenomics, especially for reconstructing demographic histories and estimating phylogenetic networks, respectively.
 
-[Jordi Salmona](https://crbe.cnrs.fr/annuaire/salmona/), IRD researcher at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)). Jordi's [research](https://scholar.google.pt/citations?hl=en&user=5-mQGREAAAAJ&view_op=list_works&sortby=pubdate) combines field and genetic approaches to support conservation efforts for critically endangered flagship species, primarily in Madagascar. He addresses both applied (conservation) and fundamental (evolutionary) objectives related to biodiversity and diversification processes. His projects revolve around three interdependent objectives: the conservation of endemic species of ecological and economic importance (lemurs, rodents, carnivores, and Tapia !!!!), the mitigation of the impact of invasive species, and the fight against wildlife trafficking.
+[Jordi Salmona](https://crbe.cnrs.fr/annuaire/salmona/), IRD researcher at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)). Jordi's [research](https://scholar.google.pt/citations?hl=en&user=5-mQGREAAAAJ&view_op=list_works&sortby=pubdate) combines field and genetic approaches to support conservation efforts for critically endangered flagship species, primarily in Madagascar and in the French Pyrenees. He addresses both applied (conservation) and fundamental (evolutionary) objectives related to biodiversity and diversification processes. His projects revolve around three interdependent objectives: the conservation of endemic species of ecological and economic importance (lemurs, rodents, carnivores, and Tapia !!!!), the mitigation of the impact of invasive species, and the fight against wildlife trafficking.
 
 <!--
 
@@ -59,5 +59,5 @@ At the end of the workshop, participants should be able to:
 
 ## Sponsors
 
-This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding from the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the CEBA, of the   
+This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding from the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), and the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne).   
 
