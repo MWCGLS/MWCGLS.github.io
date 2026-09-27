@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-**1st Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
+**1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
 <figure>
   <img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
-  <figcaption>A Coquerel Sifaka (Propithecus coquereli) in Amborovy, Madagascar(the course location), in 2010. Credits Jordi Salmona </figcaption>
+  <figcaption>A Coquerel Sifaka (*Propithecus coquereli*) in Amborovy, Madagascar (the workshop location), in 2010. Credits Jordi Salmona </figcaption>
 </figure>
 
 
