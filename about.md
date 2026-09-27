@@ -22,27 +22,43 @@ The first *Madagascar Workshop on Conservation Genetics and Landscape Sustainabi
 
 The workshop was developed with the goals of:
 
-1. **Bridge the "Conservation Genomics Gap" & Build Local Expertise**
+**Bridge the "Conservation Genomics Gap" & Build Local Expertise**
+
 Demystify core concepts and technical challenges over an intensive 10-day program for 35 participants, building local capacity and fostering a sustainable, locally-led community of conservation geneticists in Madagascar.
-2. **Master the Full Research Workflow & Reproducible Science**
+
+**Master the Full Research Workflow & Reproducible Science**
+
 Guide participants through every stage of conservation genomics research—from field-based sampling to data interpretation and conservation implications—while instilling standards of reproducible research using **R, RMarkdown, and BASH**.
-3. **Overcome Infrastructural Barriers via High-Performance Computing**
+
+**Overcome Infrastructural Barriers via High-Performance Computing**
+
 Equip participants with high-performance computing (HPC) cluster skills, expanding computational capabilities beyond local laptops and mitigating the impact of local power and internet outages.
-4. **Deliver a Comprehensive, Holistic Curriculum**
+
+**Deliver a Comprehensive, Holistic Curriculum**
+
 Cover classical conservation genomics pillars (genetic diversity, population structure, demographic history, inbreeding and genetic load) by integrating computational, population genetics, and conservation science.
-5. **Foster Diversity, Collaboration, and Multidisciplinary Exchange**
+
+**Foster Diversity, Collaboration, and Multidisciplinary Exchange**
+
 Bring together Master's/PhD students and professionals from academic and conservation sectors in mixed groups, encouraging peer-to-peer cultural, technical, and scientific collaboration through lectures, workshops, and short projects.
-5. **Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
+
+**Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
+
 Through daily seminars and regular roundtables, we intend to develop a collective, nuanced appreciation of Madagascar's Natural History and identify key areas where conservation genetics research could be important.
 
 ## Workshop Outcomes
 
 By the end of the workshop, participants will gain knowledge and strengthen their capacity to:
-*Critically evaluate literature: Read, interpret, and assess scientific papers in conservation genetics and landscape genomics for evidence-based management.
-*Execute high-impact analyses: Perform complete, reproducible data workflows (using BASH, R, and HPC clusters) suitable for international publication.
-*Design independent research: Conceptualize and conduct rigorous conservation genetics projects that bridge field sampling with genomic insights.
-*Overcome infrastructure limits: Utilize high-performance computing to maintain analytical independence despite local connectivity constraints.
-*Collaborate regionally: Work within multidisciplinary teams to strengthen a self-sustaining community of conservation geneticists in Madagascar.
+
+Critically evaluate literature: Read, interpret, and assess scientific papers in conservation genetics and landscape genomics for evidence-based management.
+
+Execute high-impact analyses: Perform complete, reproducible data workflows (using BASH, R, and HPC clusters) suitable for international publication.
+
+Design independent research: Conceptualize and conduct rigorous conservation genetics projects that bridge field sampling with genomic insights.
+
+Overcome infrastructure limits: Utilize high-performance computing to maintain analytical independence despite local connectivity constraints.
+
+Collaborate regionally: Work within multidisciplinary teams to strengthen a self-sustaining community of conservation geneticists in Madagascar.
 
 
 ## Instructors
