@@ -69,7 +69,7 @@ Collaborate regionally: Work within multidisciplinary teams to strengthen a self
 
 [Helena Teixeira](https://isem-evolution.fr/en/membre/teixeira/), IRD Junior Professor at the [Institut des Sciences de l'Evolution de Montpellier (ISEM)](https://isem-evolution.fr/), France. As an evolutionary biologist, Helena is interested in the mechanisms underlying species diversification and population declines in tropical regions. 
 
-[Rindra Rakotoarivony](https://www.researchgate.net/profile/Rindra-Rakotoarivony), Postdoctoral researcher at the [Université d'Antananarivo](https://www.univ-antananarivo.mg/), Madagascar.
+[Rindra Rakotoarivony](https://www.researchgate.net/profile/Rindra-Rakotoarivony), Lecturer and Researcher at the [Université d'Antananarivo](https://www.univ-antananarivo.mg/), Madagascar, Faculty of Sciences, Department of Anthropobiology and Sustainable Development (Anthropobiologie et Développement Durable). Biological Anthropologist, geneticist, and environmental scientist working on human genetics and biodiversity conservation, Rindra is particularly interested in building local genomic capacity and applying field-based approaches.
 
 [Maeva Gabrielli](https://www.researchgate.net/profile/Maeva-Gabrielli), Postdoctoral researcher at the Instituto Tecnologico Vale, Belem, Brasil. Maeva investigates the impacts of mining activity on micro-endemic plants and endemic birds, including blue macaws. More broadly, she uses genomic approaches to investigate the processes shaping species diversification, adaptation, and demography, with a particular focus on species with restricted distributions. Her [work](https://scholar.google.com/citations?user=WWp4-c4AAAAJ&hl=fr) also aims to inform the conservation of threatened and micro-endemic species.
 
