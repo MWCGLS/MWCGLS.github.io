@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![MWCGLS_main image](<img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>)
+<img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
 
 The first *Madagascar Workshop on Conservation Genetics and Landscape Sustainability* in Madagascar represents internationally collaborative efforts to elevate the impact of conservation genetics research in Madagascar. The workshop is intended to provide an intensive 10-day hands-on training with experts at the intersection of technical skill sets and the passion for Madagascar's Natural History and biodiversity. Approximately 30 individuals will gather in Mahajanga to advance their research projects, develop connections, and learn from each other.
 
@@ -36,7 +36,9 @@ At the end of the workshop, participants should be able to:
 
 [Maeva Gabrielli](https://www.researchgate.net/profile/Maeva-Gabrielli), Postdoctoral researcher at the Instituto Tecnologico Vale, Belem, Brasil. Maeva investigates the impacts of mining activity on micro-endemic plants and endemic birds, including blue macaws. More broadly, she uses genomic approaches to investigate the processes shaping species diversification, adaptation, and demography, with a particular focus on species with restricted distributions. Her [work](https://scholar.google.com/citations?user=WWp4-c4AAAAJ&hl=fr) also aims to inform the conservation of threatened and micro-endemic species.
 
-[Tanjona Ramiadantsoa](https://ramiadantsoa.github.io/). Tanjona is a Malagasy ecologist who develops mathematical and statistical models to better understand patterns and processes of biodiversity loss. 
+[Tanjona Ramiadantsoa](https://ramiadantsoa.github.io/). Tanjona is a Malagasy ecologist who develops mathematical and statistical models to better understand patterns and processes of biodiversity loss. Tanjona 
+
+[George Tiley](https://cals.ncsu.edu/plant-and-microbial-biology/people/gptiley/), Associate Professor at the .....
 
 [Jordi Salmona](https://crbe.cnrs.fr/annuaire/salmona/), IRD researcher at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)). Jordi's [research](https://scholar.google.pt/citations?hl=en&user=5-mQGREAAAAJ&view_op=list_works&sortby=pubdate) combines field and genetic approaches to support conservation efforts for critically endangered flagship species, primarily in Madagascar. He addresses both applied (conservation) and fundamental (evolutionary) objectives related to biodiversity and diversification processes. His projects revolve around three interdependent objectives: the conservation of endemic species of ecological and economic importance (lemurs, rodents, carnivores, and Tapia !!!!), the mitigation of the impact of invasive species, and the fight against wildlife trafficking.
 
