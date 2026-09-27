@@ -7,7 +7,7 @@ permalink: /about/
 # **1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
 <figure>
   <img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
-  <figcaption>A Coquerel Sifaka (<i>Propithecus coquereli</i>) in Amborovy (the workshop location), Madagascar, in 2010. Credits Jordi Salmona </figcaption>
+  <figcaption>A Coquerel Sifaka (<i>Propithecus coquereli</i>) in Amborovy (the workshop location), Madagascar, in 2010. Credits J. Salmona </figcaption>
 </figure>
 
 
@@ -98,8 +98,8 @@ Collaborate regionally: Work within multidisciplinary teams to strengthen a self
 
 This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding granted by the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne), the Centre de Recherche sur la Biodiversité et l'Environnement (CRBE), and the [Genotoul Bioinformatic platform](bioinfo.genotoul.fr/).   
 
-<img width="1542" height="722" alt="logo_ird" src="https://github.com/user-attachments/assets/dd4730a2-b48f-4194-854d-48fa6d8c0f23" />
+<img width="300" alt="logo_ird" src="https://github.com/user-attachments/assets/dd4730a2-b48f-4194-854d-48fa6d8c0f23" />
 
-<img width="2481" height="1172" alt="Logo-CRBE-couleur" src="https://github.com/user-attachments/assets/98953d74-f388-4b5b-ac53-57a39cefd2c3" />
+<img width="300" alt="Logo-CRBE-couleur" src="https://github.com/user-attachments/assets/98953d74-f388-4b5b-ac53-57a39cefd2c3" />
 
-<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/9989f1c6-9613-4007-ab31-4d9d6f15ab54" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9989f1c6-9613-4007-ab31-4d9d6f15ab54" />
