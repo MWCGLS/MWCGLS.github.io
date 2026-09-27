@@ -4,24 +4,36 @@ title: About
 permalink: /about/
 ---
 
-**1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
+#**1<sup>st</sup> Madagascar Workshop on Conservation Genetics and Landscape Sustainability**
 <figure>
   <img width="816" height="612" alt="P7018436" src="https://github.com/user-attachments/assets/d12bbce5-2267-441f-a001-aa4ac46c44ca"/>
-  <figcaption>A Coquerel Sifaka (<i>Propithecus coquereli</i>) in Amborovy, Madagascar (the workshop location), in 2010. Credits Jordi Salmona </figcaption>
+  <figcaption>A Coquerel Sifaka (<i>Propithecus coquereli</i>) in Amborovy (the workshop location), Madagascar, in 2010. Credits Jordi Salmona </figcaption>
 </figure>
 
 
+The first edition of the **Madagascar Workshop on Conservation Genetics and Landscape Sustainability** aims to bridge the "conservation genomics gap" by building local expertise in population and conservation genetics and genomics. The workshop consists of an intensive 10-day hands-on training program led by experts at the intersection of conservation genomics, Madagascar's natural history, and biodiversity. Additionally, it will serve as a platform for local young scientists and stakeholders to apply these tools to conservation, aligning with the growing demand from international funders to effectively monitor the genetic diversity of threatened species. Approximately 35 participants will gather in Amborovy (Mahajanga, Madagascar) to advance their research projects, develop connections, and learn from each other.
 
 
+<!--
 The first *Madagascar Workshop on Conservation Genetics and Landscape Sustainability* in Madagascar represents internationally collaborative efforts to elevate the impact of conservation genetics research in Madagascar. The workshop is intended to provide an intensive 10-day hands-on training with experts at the intersection of technical skill sets and the passion for Madagascar's Natural History and biodiversity. Approximately 30 individuals will gather in Mahajanga to advance their research projects, develop connections, and learn from each other.
+-->
 
 ## Workshop Goals
 
 The workshop was developed with the goals of:
 
-* Developing a collective nuanced appreciation for Madagascar's Natural History and identifying key areas where conservation genetics research could be important
-* Broadening interdisciplinary collaboration within Madagascar by connecting individuals with different organismal and technical expertise, and perspectives
-* Providing excellent training materials that reduce bioinformatic and technical barriers to conservation genetics research within Madagascar
+1. **Bridge the "Conservation Genomics Gap" & Build Local Expertise**
+Demystify core concepts and technical challenges over an intensive 10-day program for 35 participants, building local capacity and fostering a sustainable, locally-led community of conservation geneticists in Madagascar.
+2. **Master the Full Research Workflow & Reproducible Science**
+Guide participants through every stage of conservation genomics research—from field-based sampling to data interpretation and conservation implications—while instilling standards of reproducible research using **R, RMarkdown, and BASH**.
+3. **Overcome Infrastructural Barriers via High-Performance Computing**
+Equip participants with high-performance computing (HPC) cluster skills, expanding computational capabilities beyond local laptops and mitigating the impact of local power and internet outages.
+4. **Deliver a Comprehensive, Holistic Curriculum**
+Cover classical conservation genomics pillars (genetic diversity, population structure, demographic history, inbreeding and genetic load) by integrating computational, population genetics, and conservation science.
+5. **Foster Diversity, Collaboration, and Multidisciplinary Exchange**
+Bring together Master's/PhD students and professionals from academic and conservation sectors in mixed groups, encouraging peer-to-peer cultural, technical, and scientific collaboration through lectures, workshops, and short projects.
+5. **Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
+Through daily seminars and regular roundtables we intend to develop a collective, nuanced appreciation of Madagascar's Natural History and identify key areas where conservation genetics research could be important.
 
 ## Workshop Outcomes
 
@@ -43,11 +55,11 @@ At the end of the workshop, participants should be able to:
 
 [Maeva Gabrielli](https://www.researchgate.net/profile/Maeva-Gabrielli), Postdoctoral researcher at the Instituto Tecnologico Vale, Belem, Brasil. Maeva investigates the impacts of mining activity on micro-endemic plants and endemic birds, including blue macaws. More broadly, she uses genomic approaches to investigate the processes shaping species diversification, adaptation, and demography, with a particular focus on species with restricted distributions. Her [work](https://scholar.google.com/citations?user=WWp4-c4AAAAJ&hl=fr) also aims to inform the conservation of threatened and micro-endemic species.
 
-[Tanjona Ramiadantsoa](https://ramiadantsoa.github.io/). Tanjona is a Malagasy ecologist who develops mathematical and statistical models to better understand patterns and processes of biodiversity loss. Tanjona 
+[Tanjona Ramiadantsoa](https://ramiadantsoa.github.io/), Postdoctoral researcher at the [University of Wisconsin-Madison](https://www.wisc.edu/), WI, USA & Mahaliana, Amboditsiry, Madagascar. Tanjona is a Malagasy ecologist who develops mathematical and statistical models to better understand patterns and processes of biodiversity loss. His responsibilities as scientific director and graduate program coordinator at the [Madagascar Biodiversity Center](https://www.madagascarbio.org/) led Tanjona to develop a strong commitment to training the next generation of Malagasy scientists.  
 
-[George Tiley](https://cals.ncsu.edu/plant-and-microbial-biology/people/gptiley/), Associate Professor at North-Carolina State University. George is broadly interested in the evolutionary consequences of polyploidy, from local adaptation among populations of the same species with variable ploidy to how new species arise through hybridization with genome duplication or allopolyploidy. The organismal focus of his lab is on grasses and grassy ecosystems in Madagascar and the Southeastern United States, but there are also projects in the lab that address large-scale questions of plant molecular evolution across angiosperms. Computational and statistical development is focused on coalescent models in population genomics and phylogenomics, especially for reconstructing demographic histories and estimating phylogenetic networks, respectively.
+[George Tiley](https://cals.ncsu.edu/plant-and-microbial-biology/people/gptiley/), Associate Professor at [North-Carolina State University](https://www.ncsu.edu/). George is broadly interested in the evolutionary consequences of polyploidy, from local adaptation among populations of the same species with variable ploidy to how new species arise through hybridization with genome duplication or allopolyploidy. The organismal focus of his lab is on grasses and grassy ecosystems in Madagascar and the Southeastern United States, but there are also projects in the lab that address large-scale questions of plant molecular evolution across angiosperms. Computational and statistical development is focused on coalescent models in population genomics and phylogenomics, especially for reconstructing demographic histories and estimating phylogenetic networks, respectively.
 
-[Jordi Salmona](https://crbe.cnrs.fr/annuaire/salmona/), IRD researcher at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)). Jordi's [research](https://scholar.google.pt/citations?hl=en&user=5-mQGREAAAAJ&view_op=list_works&sortby=pubdate) combines field and genetic approaches to support conservation efforts for critically endangered flagship species, primarily in Madagascar and in the French Pyrenees. He addresses both applied (conservation) and fundamental (evolutionary) objectives related to biodiversity and diversification processes. His projects revolve around three interdependent objectives: the conservation of endemic species of ecological and economic importance (lemurs, rodents, carnivores, and Tapia !!!!), the mitigation of the impact of invasive species, and the fight against wildlife trafficking.
+[Jordi Salmona](https://crbe.cnrs.fr/annuaire/salmona/), IRD researcher at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)). Jordi's [research](https://scholar.google.pt/citations?hl=en&user=5-mQGREAAAAJ&view_op=list_works&sortby=pubdate) combines field and genetic approaches to support conservation efforts for critically endangered flagship species, primarily in Madagascar and in the French Pyrenees. He addresses both applied (conservation) and fundamental (evolutionary) objectives related to biodiversity and diversification processes. His projects focus on three interdependent objectives: informing the conservation of endemic species of ecological and economic importance (lemurs, rodents, carnivores, and plants), mitigating the impacts of invasive species, and fighting wildlife trafficking.
 
 <!--
 
