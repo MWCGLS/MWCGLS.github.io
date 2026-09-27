@@ -22,27 +22,27 @@ The first *Madagascar Workshop on Conservation Genetics and Landscape Sustainabi
 
 The workshop was developed with the goals of:
 
-**Bridge the "Conservation Genomics Gap" & Build Local Expertise**
+- **Bridge the "Conservation Genomics Gap" & Build Local Expertise**
 
 Demystify core concepts and technical challenges over an intensive 10-day program for 35 participants, building local capacity and fostering a sustainable, locally-led community of conservation geneticists in Madagascar.
 
-**Master the Full Research Workflow & Reproducible Science**
+- **Master the Full Research Workflow & Reproducible Science**
 
 Guide participants through every stage of conservation genomics research—from field-based sampling to data interpretation and conservation implications—while instilling standards of reproducible research using **R, RMarkdown, and BASH**.
 
-**Overcome Infrastructural Barriers via High-Performance Computing**
+- **Overcome Infrastructural Barriers via High-Performance Computing**
 
 Equip participants with high-performance computing (HPC) cluster skills, expanding computational capabilities beyond local laptops and mitigating the impact of local power and internet outages.
 
-**Deliver a Comprehensive, Holistic Curriculum**
+- **Deliver a Comprehensive, Holistic Curriculum**
 
 Cover classical conservation genomics pillars (genetic diversity, population structure, demographic history, inbreeding and genetic load) by integrating computational, population genetics, and conservation science.
 
-**Foster Diversity, Collaboration, and Multidisciplinary Exchange**
+- **Foster Diversity, Collaboration, and Multidisciplinary Exchange**
 
 Bring together Master's/PhD students and professionals from academic and conservation sectors in mixed groups, encouraging peer-to-peer cultural, technical, and scientific collaboration through lectures, workshops, and short projects.
 
-**Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
+- **Use collective thinking to identify the future avenues of conservation genetics in Madagascar**
 
 Through daily seminars and regular roundtables, we intend to develop a collective, nuanced appreciation of Madagascar's Natural History and identify key areas where conservation genetics research could be important.
 
@@ -96,5 +96,10 @@ Collaborate regionally: Work within multidisciplinary teams to strengthen a self
 
 ## Sponsors
 
-This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding granted by the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne), and the [Genotoul Bioinformatic platform](bioinfo.genotoul.fr/).   
+This workshop was made possible by an "École de Formation à la Recherche" (EFR) funding granted by the French [Institute for Sustainable Development (IRD)](https://en.ird.fr/). It also benefited from the support of the IRD-Laboratoire Mixte international [LMI-Paysages](https://www.ird.fr/lmi-paysages-vers-un-observatoire-collaboratif-des-paysages-et-de-leurs-durabilites), the [Labex-CEBA](https://www.labex-ceba.fr/en/home/) (Centre d’étude de la biodiversité amazonienne), the Centre de Recherche sur la Biodiversité et l'Environnement (CRBE), and the [Genotoul Bioinformatic platform](bioinfo.genotoul.fr/).   
 
+<img width="1542" height="722" alt="logo_ird" src="https://github.com/user-attachments/assets/dd4730a2-b48f-4194-854d-48fa6d8c0f23" />
+
+<img width="2481" height="1172" alt="Logo-CRBE-couleur" src="https://github.com/user-attachments/assets/98953d74-f388-4b5b-ac53-57a39cefd2c3" />
+
+<img width="409" height="123" alt="image" src="https://github.com/user-attachments/assets/9989f1c6-9613-4007-ab31-4d9d6f15ab54" />
