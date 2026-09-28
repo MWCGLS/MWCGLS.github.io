@@ -12,9 +12,22 @@ Much of the practical excerises will utilize data from [Tiley et al. 2022](https
 
 Additional suggested biological and method papers are provided below.
 
-* Allendorf, F.W., Luikart, G., 2007. Conservation and the genetics of populations. Blackwell Pub, Malden, MA.[link](https://drive.google.com/file/d/15JvacByt8t9rs38u-6Vfa9JXcbkPmXSw/view?usp=sharing)
-
 
 ## Curated reading list of conservation genetics research in Madagascar
 
 TBD
+
+## Suggested book related to conservation genetics
+
+The basic concepts are introduced and explained well in Fred Allendorf’s book on conservation genetics. Read the chapters related to each day's topic.
+
+* Chapter 4: Genetic variation in natural populations: DNA
+* Chapter 5: Randomly Mating Populations: The Hardy–Weinberg Principle
+* Chapter 6: Small Populations and Genetic Drift
+* Chapter 7: Effective Population Size
+* Chapter 9: Population Subdivision
+* Chapter 12: Mutation
+* Chapter 13: Inbreeding Depression
+* Chapter 14: Demography and Extinction
+* Chapter 15: Metapopulations and Fragmentation
+* Chapter 18: Conservation Breeding and Restoration
