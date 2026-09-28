@@ -63,7 +63,7 @@ Collaborate regionally: Work within multidisciplinary teams to strengthen a self
 
 ## Instructors
 
-[Hanta Razafindraibe](https://recherche.univ-antananarivo.mg/chercheurs/1219), Professor at the [Université d'Antananarivo](https://www.univ-antananarivo.mg/), Madagascar. Hanta's research centers on Madagascar’s unique biodiversity, focusing on the ecology and conservation of endemic lemurs. As an academic leader, she actively translates her research into mentorship for next-generation conservationists. 
+[Hanta Razafindraibe](https://recherche.univ-antananarivo.mg/chercheurs/1219), Professor at the [Université d'Antananarivo](https://www.univ-antananarivo.mg/), ZAB department (Zoology and Animal Biodiversity), Madagascar and member of the EcoFauna association. Hanta's research centers on Madagascar’s unique biodiversity, focusing on the ecology and conservation of endemic lemurs. As an academic leader, she actively translates her research into mentorship for next-generation conservationists. 
 
 [Besoa Ranjavao](https://crbe.cnrs.fr/annuaire/ramananirina-ranjavao/), IRD-ARTS Ph.D. candidate at the Centre de Recherche sur la Biodiversité et l'Environnement ([CRBE](https://crbe.cnrs.fr/)), Toulouse, France, and at the Université d'Antananarivo, Madagascar. Besoa's Ph.D. research focuses on landscape sustainability through the lens of lemur population genomics. The underlying aim is to understand how landscape configuration and dynamics affect present and past dispersal of lemur populations.
 
