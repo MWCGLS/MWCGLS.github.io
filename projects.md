@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Several group project are planned to occur over the workshop. These mostly concern the re-analysis of previously published data, but applying techniques and concepts covered throughout the workshop.
+Group projects are planned to run throughout the entire workshop, from Tuesday, September 29th to Wednesday, October 7th. These mostly involve re-analyzing previously published data to address new, unanswered questions and apply techniques and concepts covered throughout the workshop. Each group will consist of three participants of mixed town and university origins. Each group will choose a subject from the list of projects detailed below. They will first form questions and/or hypotheses from the project description and the literature. Second, they will develop and implement a structured population genomic analytical approach to answer the raised question(s). Finally, they will write a very short report and prepare a final presentation with visual support to defend their work on Wednesday, October 7th, the last day of the workshop. Each group will be supervised/mentored by at least one member of the teaching team and of the guest professors. 
 
 ## Project 1 - Revisiting *Varecia variegata* landscape genetics!
 
