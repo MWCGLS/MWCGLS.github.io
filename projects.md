@@ -95,8 +95,8 @@ Invasive species suffer from founder effects that limit their diversity. Here we
 * Data paper: [Sjodin et al.,2019](https://onlinelibrary.wiley.com/doi/10.1111/eva.12907)
 * Method papers: RzooROH, snpeff
 * Case study papers:
-[Link to the drive folder](https://drive.google.com/drive/folders/1pvw9FA-o6YIaiJ2a9N2fWeCH0ZOXya93?usp=drive_link)
-Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_7_rattus*
+* [Link to the drive folder](https://drive.google.com/drive/folders/1pvw9FA-o6YIaiJ2a9N2fWeCH0ZOXya93?usp=drive_link)
+* Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_7_rattus*
 
 
 ## Project 8 - Are Aristida similis and Aristida rufescens separate species or one species with high morphological variation associated with environmental variation?
