@@ -44,7 +44,7 @@ Just run the following command:
 install.packages(c("poppr", "vcfR", "StAMPP","vegan", "geosphere"))
 ```
 
-If you face difficulties, please contact the instructors or your peers urgently. They will help you get started, please ask.
+If you face difficulties, please contact the instructors or your peers urgently. They will help you.
 
 
 
