@@ -105,8 +105,8 @@ The grasses and grasslands of Madagascar are sometimes controversial. Determinin
 
 * Data: Unpublished target-enrichment data from a few hundred probes designed to work across angiosperms. 
 * Data paper: [Breinholt et al. 2021]() provide an overview of the type of data.
-* Method papers: [Tiley et al. 2023]() show that the type of target-enrichment data used here, while limiting for some types of demographic modeling, can be useful for basic assessments of population structure and potentially species delimitation analyses.
-* Case study papers: [Tiley et al. 2023]() show the basic analyses that should be feasible for this project, which align well with the practical activities. Additional background reading on the organism can be found in [Besnard et al. 2014]() and [Cerros-Tlatipla et al. 2011]().
+* Method papers: [Tiley et al. 2023](https://doi.org/10.1093/sysbio/syad015) show that the type of target-enrichment data used here, while limiting for some types of demographic modeling, can be useful for basic assessments of population structure and potentially species delimitation analyses.
+* Case study papers: [Tiley et al. 2023](https://doi.org/10.1093/sysbio/syad015) show the basic analyses that should be feasible for this project, which align well with the practical activities. Additional background reading on the organism can be found in [Besnard et al. 2014](https://doi.org/10.1093/jxb/eru395) and [Cerros-Tlatipla et al. 2011](https://doi.org/10.3732/ajb.1100103).
 * [Link to the drive folder](https://drive.google.com/drive/folders/1YvrpFYbXc51LTgfcnxtNXm0rO2Nu-rFq?usp=drive_link)
 * Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_8_Aristida*
 
@@ -118,9 +118,9 @@ The grasses and grasslands of Madagascar are sometimes controversial. Determinin
 
 
 * Data: Target enrichment data from a set of approximately 2400 Dalbergia-specific probes. The data in the supplied VCF has 51 individuals from at least two named species.
-* Data paper: [Crameri et al. 2022]()
+* Data paper: [Crameri et al. 2022](https://doi.org/10.1111/1755-0998.13666)
 * Method papers: The population genetic components of this paper only did some basic analyses of population structure. Questions about the effects of fragmentation on genetic variation and sustainability of populations remain. Because the individual GPS points are obscured, this creates some challenges to analysis and interpretation, but analysis by region or ecoregion should be possible.
-* Case study papers: Additional examples of conservation genetic analyses with target-enrichment data for tree species includes [Dauphin et al. 2020](). Related to the mini-project data, detecting signatures of selection or demographic processes affecting the efficacy of selection could be options.
+* Case study papers: Additional examples of conservation genetic analyses with target-enrichment data for tree species includes [Dauphin et al. 2020](https://doi.org/10.1111/mec.15467). Related to the mini-project data, detecting signatures of selection or demographic processes affecting the efficacy of selection could be options.
 
 * [Link to the drive folder](https://drive.google.com/drive/folders/1iJvDdHEz7tafvD-ewGkzGU5kCqfXx3BD?usp=drive_link)  
 * Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_9_Dalbergia*
