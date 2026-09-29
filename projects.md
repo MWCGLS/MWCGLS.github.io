@@ -16,8 +16,8 @@ The effects of landscape features on the genetic diversity and differentiation o
   * [Mancini et al., 2023](https://doi.org/10.3390/genes14030746)
 * Method pdfs: [Peterman and Pope 2021](https://onlinelibrary.wiley.com/doi/10.1111/mec.15716)
 * Case study pdfs:
-  * [van Elst et al., 2025](10.1111/mec.70195),
-  * [Salmona et al., 2023](10.1111/mec.16759)
+  * [van Elst et al., 2025](https://doi.org/10.1111/mec.70195),
+  * [Salmona et al., 2023](https://doi.org/10.1111/mec.16759)
 * [Link to the drive folder](https://drive.google.com/drive/folders/1MAsg8TbgxdgYu4OmMDsCIPeXlgktkax6?usp=drive_link)
 * Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_1_varecia*
 
