@@ -124,3 +124,9 @@ The grasses and grasslands of Madagascar are sometimes controversial. Determinin
 
 * [Link to the drive folder](https://drive.google.com/drive/folders/1iJvDdHEz7tafvD-ewGkzGU5kCqfXx3BD?usp=drive_link)  
 * Path in the cluster: */work/projects/madagene/mwcgls/data/mini_projects/Project_9_Dalbergia*
+
+
+
+
+Record your group's composition and 2-3 prefered subject per group in the following document:
+* [Shared groups document](https://docs.google.com/document/d/1uIwDxFaMHmVIhe9nDJKmF2AKt4vckG7XKdhZirRtlK0/edit?usp=sharing)
