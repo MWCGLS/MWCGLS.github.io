@@ -9,15 +9,45 @@ Group projects are planned to run throughout the entire workshop, from Tuesday, 
 ## Project 1 - Revisiting *Varecia variegata* landscape genetics!
 
 The effects of landscape features on the genetic diversity and differentiation of Varecia variegata have been studied at several scales using resistanceGA. This project aims to revisit these effects using new modeling and surface optimization approaches, as well as including new/other/additional landscape variables.<br>
+* Data: microsatellite data shared by Andrea Baden (she already shared it with me).
+* Data / subject papers: 
+  * Baden et al., 2014, 
+  * [Baden et al., 2019](https://doi.org/10.1038/s41598-019-52689-2),
+  * [Mancini et al., 2023](https://doi.org/10.3390/genes14030746)
+* Method papers: [Peterman and Pope 2021](https://onlinelibrary.wiley.com/doi/10.1111/mec.15716)
+* Case study papers:
+  * [van Elst et al., 2025](mol. ecol),
+  * [Salmona et al., 2023](N. spinifolia)
+* [Link to the drive folder](https://drive.google.com/drive/folders/1MAsg8TbgxdgYu4OmMDsCIPeXlgktkax6?usp=drive_link)
+* Path in the cluster: /work/projects/madagene/mwcgls/data/mini_projects/Project_1_varecia
+
+
 
 ## Project 2 - What influenced the demographic history of bottlenose dolphins?
 
 In contrast to the Mediterranean, which humans have occupied for tens of thousands of years, the Azores archipelago was colonized by humans very recently. Since human colonization of the Atlantic islands, marine mammals have been severely impacted by whaling and fishery activities. The project will evaluate the relative role of climate, hunter-gatherer settlements, the first large civilization, early medieval settlers (700–850 CE), and Portuguese Colonization (15th Century Onward) on the demographic fluctuations of the Mediterranean and Azorean bottlenose dolphin populations.<br>
 
+* Data: VCF file: https://datadryad.org/dataset/doi:10.5061/dryad.xsj3tx9vd
+* Data paper: [Moore et al., 2025](https://doi.org/10.1111/mec.70182)
+* Method papers: stairway plot, gone
+* Case study papers: 
+  * [Trucchi et al., 2014](http://dx.doi.org/10.1098/rspb.2014.0528)
+  * [Teixeira et al. 2025](Mascarene petrel)
+* [Link to the drive folder](https://drive.google.com/drive/folders/1czitC42DJa7MtbYPu8DPQ5WSRnjaN4A6?usp=drive_link)
+* Path in the cluster: /work/projects/madagene/mwcgls/data/mini_projects/Project_2_Tursiops
+
 
 ## Project 3 - Have north-eastern lemurs been affected by deforestation? 
 
 Van Elst et al. (2025, Mol Ecol) have studied the landscape genetics of north-eastern lemurs extensively. However, van Elst did not assess the effect of recent documented deforestation (i.e., 1950-2026, e.g., Vieilledent et al., 2018) on the lemur populations of northeastern Madagascar. The project intends to reuse the RAD data from van Elst et al., 2025 to assess the forest loss and fragmentation effect on the genetic diversity and differentiation of northeastern lemurs.<br>
+
+* Data: [VCF available online](https://datadryad.org/dataset/doi:10.5061/dryad.4xgxd25nt)
+* Data papers: [van Elst et al., 2025](https://doi.org/10.1111%2Fmec.70195)
+* Method papers: [Peterman and Pope 2021](https://onlinelibrary.wiley.com/doi/10.1111/mec.15716)
+* Case study papers: [Salmona et al., 2023](https://onlinelibrary.wiley.com/doi/10.1111/mec.16759)
+* [Link to the drive folder](https://drive.google.com/drive/folders/1w-UuG1PsaB-oo1gWatU_cjFk84UYAX9L?usp=drive_link)
+* Path in the cluster: /work/projects/madagene/mwcgls/data/mini_projects/Project_3_lemurs 
+
 
 ## Project 4 - Are Indian Ocean white-eyes subject to inbreeding?
 
