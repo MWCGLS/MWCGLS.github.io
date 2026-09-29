@@ -17,7 +17,7 @@ Instructors will make their materials available here either before or after acti
 |  | afternoon | 5:00 PM | 6:00 PM | pre-course evaluation | scientific and technical evaluation | none / all | / |
 | **September 29** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi: bushpigs | / | / |
 |  | morning | whenever it happends | whenever it happends | diplomatic / administrative | Inauguration with Univ. and doctoral school presidents | / | / |
-|  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | introductory talk, planning and BASH1 | Jordi & Besoa + Tanjona update | [Tuto_BASH_Tanjona](C:/Users/salmo/Documents/jordi/mahajanga_tutorial_1.pdf) |
+|  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | introductory talk, planning and BASH1 | Jordi & Besoa + Tanjona update | [Tuto_BASH_Tanjona](https://drive.google.com/file/d/1KPIgC0WkTmJMD5Qq17aqV7TweRwITU_c/view?usp=drive_link) |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | BASH2, SLURM and Servers | Jordi & Besoa + Tanjona update | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | introduction, papers, data, choice and organisation | JS | / |
 | **September 30** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi: microcebus taxonomy | / | / |
