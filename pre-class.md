@@ -35,4 +35,18 @@ One your R installation is complete, you can work ahead and install these pacakg
  - dplyr
  - ggplot2
 
-To install the above packages, open R Studio and go to the built-in terminal. Try a line like `install.packages("tidyverse")`. If you are having difficulties, the instructors or your peers will help you get started, please ask.
+To install the above packages, open R Studio and go to the built-in terminal. Try a line like `install.packages("tidyverse")`. 
+
+
+On 29/09/2026: here are a few more packages that you need to install by tomorrow morning:
+Just run the following command:
+```
+install.packages(c("poppr", "vcfR", "StAMPP","vegan", "geosphere"))
+```
+
+If you face difficulties, please contact the instructors or your peers urgently. They will help you get started, please ask.
+
+
+
+
+
