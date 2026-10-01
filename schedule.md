@@ -13,7 +13,7 @@ Instructors will make their materials available here either before or after acti
 | **September 28** | morning | 9:00 AM | 10:00 AM | participant arrival | check-in morning | / | / |
 |  | morning | 10:00 AM | 11:45 AM | participant arrival | check-in, rest and free time computer configuration verifications and installation | / | / |
 |  | afternoon | 1:00 PM | 4:00 PM | participant arrival | computer configuration verifications and installation / free time and beach time | / | / |
-|  | afternoon | 4:00 PM | 5:00 PM | diplomatic / administrative | program and general presentation / general introduction | Jordi / all | / |
+|  | afternoon | 4:00 PM | 5:00 PM | diplomatic / administrative | program and general presentation / general introduction | Jordi / all | [Jordi_Welcoming_introduction _program_orga](https://drive.google.com/file/d/1FUx4j23erH8JqkXkUjDAQZdDsjpCsuLF/view?usp=drive_link) |
 |  | afternoon | 5:00 PM | 6:00 PM | pre-course evaluation | scientific and technical evaluation | none / all | / |
 | **September 29** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi: bushpigs | / | / |
 |  | morning | whenever it happends | whenever it happends | diplomatic / administrative | Inauguration with Univ. and doctoral school presidents | / | / |
@@ -25,7 +25,7 @@ Instructors will make their materials available here either before or after acti
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | Spatial data processing and building maps in R | Tanjona + Besoa | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 1** | morning | 8:00 AM | 8:30 AM | Seminar | Maeva | / | / |
-|  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | Conservation genomics introduction / different data type / sequencing data and quality control | Jordi + TP (Besoa) | / |
+|  | morning | 8:30 AM | 11:45 AM | plenaries and practicals | Conservation genomics introduction / different data types/sequencing data and quality control | Jordi + TP (Besoa) | / |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | sequence mapping and variant calling / snp vs GL | Jordi + TP (Besoa) | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 2** | morning | 8:00 AM | 8:30 AM | Seminar | Helena | / | / |
