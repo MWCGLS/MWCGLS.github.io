@@ -25,7 +25,7 @@ Instructors will make their materials available here either before or after acti
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | Spatial data processing and building maps in R | Tanjona + Besoa | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 1** | morning | 8:00 AM | 8:30 AM | Seminar | Maeva | / | [Maeva Gabrielli_Seminar_Genetic Load](https://drive.google.com/file/d/1h-hiy5XSnVRADEnPM5CoUFmc0GG5nutO/view?usp=drive_link) |
-|  | morning | 8:30 AM | 11:45 AM | plenaries and practicals | Conservation genomics introduction / different data types/sequencing data and quality control | Jordi + TP (Besoa) | / |
+|  | morning | 8:30 AM | 11:45 AM | plenaries and practicals | Conservation genomics introduction / different data types/sequencing data and quality control | Jordi + TP (Besoa) | [tuto_day03](https://drive.google.com/file/d/1UYvw0V0PRLZPjXmYFTJ1-ym4AvIN-8rs/view?usp=drive_link) |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | sequence mapping and variant calling / snp vs GL | Jordi + TP (Besoa) | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 2** | morning | 8:00 AM | 8:30 AM | Seminar | Helena | / | / |
