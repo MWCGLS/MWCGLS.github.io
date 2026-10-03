@@ -28,7 +28,7 @@ Instructors will make their materials available here either before or after acti
 |  | morning | 8:30 AM | 11:45 AM | plenaries and practicals | Conservation genomics introduction / different data types/sequencing data and quality control | Jordi + TP (Besoa) | [tuto_day03](https://drive.google.com/file/d/1UYvw0V0PRLZPjXmYFTJ1-ym4AvIN-8rs/view?usp=drive_link) |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | sequence mapping and variant calling / snp vs GL | Jordi + TP (Besoa) | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
-| **October 2** | morning | 8:00 AM | 8:30 AM | Seminar | Helena | / | / |
+| **October 2** | morning | 8:00 AM | 8:30 AM | Seminar | Helena | / | [Seminar_Puffins_Helena_Teixeira](https://drive.google.com/file/d/1cqNQi5ZobSNpModrT82SLC7PiC2lH4_J/view?usp=drive_link) |
 |  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | main principles of popgen + / measuring genetic diversity | Hanta - George, TP (Besoa + George) | [tuto_diversity](https://drive.google.com/file/d/1xHREP3AV6sSDAgpd2spi8CvwXQnX8ruL/view?usp=drive_link) |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | infering population structure 1 - clustering fst and PCA | Rindra (Course) + Besoa + Helena (TP) | [Lecture_Rindra_Rakotoarivony_Population_Structure](https://drive.google.com/file/d/1zDmokn3uTv4XBCF5SYGEn_5hVW5x78F5/view?usp=drive_link) <br> [Giraffe_genomics_paper_Bertola_2024](https://drive.google.com/file/d/1aubopZjYDTpQ81dS0U7n9S33cyLvv4FP/view?usp=drive_link) <br> [ScriptR_Helena_Teixeira_PCA](https://drive.google.com/file/d/1jKibi53EbgU1ZBhXqhPSR1I8_WHMzjW4/view?usp=drive_link)|
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
