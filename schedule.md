@@ -34,8 +34,8 @@ Instructors will make their materials available here either before or after acti
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 3** | morning | 8:00 AM | 8:30 AM | Seminar | Rindra | / | / |
 |  | morning | 8:00 AM | 11:45 AM | plenaries and praticals | infering population structure 2 - IBD | Jordi - Besoa + Helena (Course) | / |
-|  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | break + beach time | beach time | / |
-|  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
+|  | early afternoon | 1:00 PM | 3:30 PM | projects | projects | projects | / |
+|  | late afternoon | 3:30 PM | 6:45 PM | Break | Well deserved break | Praia - Plage - Beach | / |
 | **October 4** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi monk seals | / | / |
 |  | morning | 8:00 AM | 11:45 AM | plenaries and praticals | measuring genetic diversity - ROH | Maeva, Jordi + TP (besoa) | / |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | measuring genetic load 1 | Maeva, Jordi + TP (besoa) | / |
