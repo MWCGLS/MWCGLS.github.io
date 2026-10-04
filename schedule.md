@@ -39,7 +39,7 @@ Instructors will make their materials available here either before or after acti
 | **October 4** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi monk seals | / | / |
 |  | morning | 8:00 AM | 11:45 AM | plenaries and praticals | measuring genetic diversity - ROH | Maeva, Jordi + TP (besoa) | / |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | measuring genetic load 1 | Maeva, Jordi + TP (besoa) | / |
-|  | late afternoon | 3:00 PM | 6:00 PM | projects | / | [Maeva_ROH](https://drive.google.com/file/d/1Q9jDbo_mxdEzzvHMB8-SYzZxGascqrgr/view?usp=sharing) | [maeva SnpEff](https://drive.google.com/file/d/1_obNDl-QAY_fs_b9f72a2KlV5j0TCtl8/view?usp=sharing) |
+|  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | [maeva SnpEff](https://drive.google.com/file/d/1_obNDl-QAY_fs_b9f72a2KlV5j0TCtl8/view?usp=sharing) |
 | **October 5** | morning | 8:00 AM | 8:30 AM | Seminar | Helena | / | / |
 |  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | Landscape genetics 1 | Jordi & Besoa | / |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | Landscape genetics 2 / measuring drift debt | Jordi & Besoa | / |
