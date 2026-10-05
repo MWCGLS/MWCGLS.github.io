@@ -45,7 +45,7 @@ Instructors will make their materials available here either before or after acti
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | Landscape genetics 2 / measuring drift debt | Jordi & Besoa | / |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 6** | morning | 8:00 AM | 8:30 AM | Seminar | Maeva | / | / |
-|  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | demographic history assuming panmixia (helena) | George (coalescent) Helena (demo course) & practicals (Helena) | / |
+|  | morning | 8:30 AM | 11:45 AM | plenaries and praticals | demographic history assuming panmixia (helena) | George (coalescent) Helena (demo course) & practicals (Helena) | [Coalescent lecture]({{site.baseurl}}/assets/coalescent.html) |
 |  | early afternoon | 1:00 PM | 2:45 PM | plenaries and praticals | demographic history with structured models | George + Helena | [practical with fsc]({{site.baseurl}}/assets/mouse-lemur-fsc-walkthrough.html) |
 |  | late afternoon | 3:00 PM | 6:00 PM | projects | / | / | / |
 | **October 7** | morning | 8:00 AM | 8:30 AM | Seminar | Jordi | / | / |
